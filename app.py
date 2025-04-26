@@ -6,7 +6,7 @@ from langchain.agents import initialize_agent, AgentType
 from langchain_community.callbacks.streamlit import StreamlitCallbackHandler  # ✅ Updated import
 import os
 from dotenv import load_dotenv
-
+##code 
 # Optional: Load .env variables
 load_dotenv()
 
